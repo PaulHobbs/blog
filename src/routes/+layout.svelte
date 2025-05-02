@@ -3,18 +3,12 @@
 </script>
 
 <header>
-	<a href="/"><h1 class:small={$page.url.pathname !== '/'}>SvelteKit + MDsveX Blog</h1></a>
+	<a href="/"><h1 class:small={$page.url.pathname !== '/'}>Paul Hobbs's blog</h1></a>
 </header>
 
 <main>
 	<slot />
 </main>
-
-<footer>
-	<p>
-		Copyright &#169; <a href="https://twitter.com/mehdi_vasigh">Mehdi Vasigh</a>, {new Date().getFullYear()}
-	</p>
-</footer>
 
 <style>
 	:global(:root) {

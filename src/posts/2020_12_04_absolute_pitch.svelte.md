@@ -1,5 +1,9 @@
 ---
-layout: blog
+title: 'How to Teach Absolute Pitch'
+description: "Young children to learn perfect pitch. This is how I did it."
+author: 'Paul Hobbs'
+date: '2020-12-04'
+published: true
 ---
 # What is absolute pitch?
 
